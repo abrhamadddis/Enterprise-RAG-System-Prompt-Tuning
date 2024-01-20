@@ -51,32 +51,5 @@ Most supportive in the community - helping others, adding links, tutoring those 
 
 The goal of this approach is to support and reward expertise in different parts of the Machine learning engineering toolbox.
 
-Group Work Policy
-Everyone has to submit all their work individually. 
-Instruction: Automatic Prompt Engineering
-Fundamental Tasks
-The core tasks for this week’s challenge in Automatic Prompt Engineering are outlined below:
-
-Understand Prompt Engineering Tools and Concepts: Gain a thorough understanding of the tools and theoretical concepts involved in prompt engineering for Language Models (LLMs).
-
-Familiarize with Language Models: Learn about the capabilities and functionalities of advanced LLMs like GPT-4 and GPT-3.5-Turbo.
-
-Develop a Plan for Prompt Generation and Testing: Create a comprehensive plan that outlines the approach for automated prompt generation, test case creation, and prompt evaluation.
-
-Set Up a Development Environment: Prepare a suitable development environment that supports the integration and testing of LLMs in the prompt engineering process.
-
-Design User Interface for Prompt System: Plan and initiate the development of a user-friendly interface for prompt input, refinement, and performance analysis.
-
-Plan Integration of LLMs: Strategize the integration of LLMs into the prompt system for automated generation and testing.
-
-Build and Refine Prompt Generation System: Develop the automated prompt generation system, ensuring it aligns with user inputs and objectives.
-
-Develop Automatic Evaluation Data Generation System: Create a system for generating test cases that evaluate the effectiveness of prompts in various scenarios.
-
-Implement Prompt Testing and Evaluation Mechanism: Set up testing procedures using Monte Carlo matchmaking and ELO rating systems to evaluate and rank prompts.
-
-Refine and Optimize System Based on Feedback: Continuously refine the prompt generation and evaluation system based on user feedback and performance data.
-
-
 
 
