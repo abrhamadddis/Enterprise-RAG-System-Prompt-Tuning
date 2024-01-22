@@ -3,7 +3,7 @@
 PromptlyTech repository, a specialized hub committed to refining Language Models (LLMs) by employing cutting-edge Prompt Engineering and leveraging the power of Retrieve, Answer, Generate (RAG) techniques. Our toolkit is designed to streamline prompt services, paving the way for elevated AI capabilities and advanced language model optimization
 
  **Table of Contents**
- - [Prompt-Tuning-For-Building-Enterprise-Grade-RAG-Systems](#Prompt Tuning For Building Enterprise Grade RAG Systems)
+ - [Prompt Tuning For Building Enterprise Grade RAG Systems](#prompt-tuning-for-building-enterprise-grade-rag-systems)
   - [Overview](#overview)
   - [Features](Features)
   - [Project Structure](#project-structure)
