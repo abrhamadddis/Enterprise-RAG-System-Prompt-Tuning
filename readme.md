@@ -3,14 +3,12 @@
 PromptlyTech repository, a specialized hub committed to refining Language Models (LLMs) by employing cutting-edge Prompt Engineering and leveraging the power of Retrieve, Answer, Generate (RAG) techniques. Our toolkit is designed to streamline prompt services, paving the way for elevated AI capabilities and advanced language model optimization
 
  **Table of Contents**
- - [End to End Web3 dApps](#End to End Web3 dApps)
+ - [Prompt-Tuning-For-Building-Enterprise-Grade-RAG-Systems](#End to End Web3 dApps)
   - [Overview](#overview)
-  - [keyService](#key Services)
   - [Features](Features)
   - [Project Structure](#project-structure)
     - [.github](#.github)
     - [notebooks](#notebooks)
-    - [frontend] (#frontend)
     - [scripts](#scripts)
     - [tests](#tests)
     - [root folder](#root-folder)
@@ -79,7 +77,7 @@ make data_generate
 # to evaluate user input data (prob., accur., confid.)
 make data_evaluate
 ```
-React Frontend
+Frontend
 ```
 cd Enterprise-RAG-System-Prompt-Tuning/front-end
 npm install
